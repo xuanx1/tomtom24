@@ -16,7 +16,9 @@ Scraping TomTom Traffic Index 2024, covering 501 cities in 62 countries.
   4. Al Ahsa (Saudi Arabia) - 9.0%
   5. Khor Fakkan (United Arab Emirates) - 9.0%
 
-  
+<img width="1386" height="790" alt="output" src="https://github.com/user-attachments/assets/85a3d799-deb3-47a1-9fcb-c2dc4bc5ff99" />
+<img width="1000" height="600" alt="newplot" src="https://github.com/user-attachments/assets/a079812b-282b-4bea-afc9-b88c94bc6b26" />
+
 ## Project Overview
 - **Data Source:** [TomTom Traffic Index Ranking](https://www.tomtom.com/traffic-index/ranking/)
 - **Main File:** `tomtom_traffic_analysis_2024.ipynb`
